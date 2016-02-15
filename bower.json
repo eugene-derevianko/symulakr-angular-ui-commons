@@ -1,0 +1,24 @@
+{
+  "name": "symulakr-angular-ui-commons",
+  "description": "A shared library for common angular components shared across various portals",
+  "main": [
+    "dist/symulakr-angular-ui-commons.js",
+    "dist/symulakr-angular-ui-commons.min.css"
+  ],
+  "authors": [
+    "Eugene Derevyanko <eugene@symulakr.com>"
+  ],
+  "homepage": "https://github.com/symulakr/symulakr-angular-ui-commons",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "1.5.x",
+    "angular-bootstrap": "1.1.2"
+  }
+}

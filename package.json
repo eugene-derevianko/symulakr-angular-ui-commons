@@ -1,0 +1,23 @@
+{
+  "name": "symulakr-angular-ui-commons",
+  "private": true,
+  "version": "0.0.0",
+  "description": "A shared library for common angular components shared across various portals",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/symulakr/symulakr-angular-ui-commons.git"
+  },
+  "bugs": {
+    "url": "https://github.com/symulakr/symulakr-angular-ui-commons/issues"
+  },
+  "devDependencies": {
+    "bower": "^1.7.2",
+    "grunt": "^0.4.5",
+    "grunt-angular-templates": "1.0.2",
+    "grunt-contrib-clean": "0.7.0",
+    "grunt-contrib-copy": "0.8.2",
+    "grunt-contrib-less": "1.2.0",
+    "grunt-contrib-concat": "0.5.1",
+    "grunt-bump": "0.7.0"
+  }
+}
